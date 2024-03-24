@@ -43,6 +43,6 @@ public class Dfs {
 
             System.out.println( (canWin(leap, game)) ? "YES" : "NO" );
         }
-        
+        scan.close();
     }
 } 
